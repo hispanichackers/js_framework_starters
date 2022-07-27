@@ -8,6 +8,12 @@
 
 ---
 
+## HTML/JS/CSS
+
+https://designmodo.com/html5-examples/
+
+---
+
 ## Nextjs Starter Guide with Timothy Hoang
 
 #### Recommended Links & Extensions
